@@ -42,8 +42,6 @@ learnpack start
 
 ## Curriculum block
 
-### Skill 8.1: Collections: arrays and matrices
-
 - **Range:** `001-073`
 - **Focus:** array traversal, transformations, filtering, aggregation, matrix access/transform, and binary search
 - **Difficulty:** beginner to intermediate

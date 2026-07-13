@@ -15,7 +15,8 @@ En este LearnPack vas a practicar TypeScript resolviendo ejercicios progresivos 
 
 ## Enfoque de este LearnPack
 
-- **Skill 8.1** (Colecciones: arreglos y matrices): `001-073`
+- **Rango:** `001-073`
+- **Enfoque:** recorrido de arreglos, transformaciones, filtros, agregaciones, acceso o transformación de matrices y búsqueda binaria
 - **Dificultad:** principiante a intermedio
 
 Cuando estés listo, haz clic en **Next** arriba a la derecha.

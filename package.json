@@ -2,7 +2,7 @@
   "name": "master-typescript-arrays-exercises",
   "version": "1.0.0",
   "private": true,
-  "description": "73 auto-graded TypeScript exercises on collections (Skill 8.1). Practice arrays, matrices, transformations, and search algorithms with strict typing.",
+  "description": "73 auto-graded TypeScript exercises on collections. Practice arrays, matrices, transformations, and search algorithms with strict typing.",
   "scripts": {
     "typecheck": "tsc --noEmit -p tsconfig.json",
     "audit:signatures": "node scripts/audit-signatures.mjs",

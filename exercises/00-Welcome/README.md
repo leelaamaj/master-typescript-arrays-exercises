@@ -15,7 +15,8 @@ In this LearnPack, you will practice TypeScript by solving progressive exercises
 
 ## Focus of this LearnPack
 
-- **Skill 8.1** (Collections: arrays and matrices): `001-073`
+- **Range:** `001-073`
+- **Focus:** array traversal, transformations, filtering, aggregation, matrix access/transform, and binary search
 - **Difficulty:** beginner to intermediate
 
 When ready, click **Next** at the top right.

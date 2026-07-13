@@ -5,8 +5,8 @@
     "es": "Master TypeScript: Arreglos"
   },
   "description": {
-    "us": "73 auto-graded TypeScript exercises on collections (Skill 8.1). Practice arrays, matrices, transformations, and search algorithms with strict typing.",
-    "es": "73 ejercicios autocorregidos de TypeScript sobre colecciones (Skill 8.1). Practica arreglos, matrices, transformaciones y algoritmos de búsqueda con tipado estricto."
+    "us": "73 auto-graded TypeScript exercises on collections. Practice arrays, matrices, transformations, and search algorithms with strict typing.",
+    "es": "73 ejercicios autocorregidos de TypeScript sobre colecciones. Practica arreglos, matrices, transformaciones y algoritmos de búsqueda con tipado estricto."
   },
   "preview": "https://raw.githubusercontent.com/4GeeksAcademy/master-typescript-arrays-exercises/main/preview.jpeg",
   "difficulty": "INTERMEDIATE",

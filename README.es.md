@@ -42,8 +42,6 @@ learnpack start
 
 ## Bloque curricular
 
-### Skill 8.1: Colecciones: arreglos y matrices
-
 - **Rango:** `001-073`
 - **Enfoque:** recorrido de arreglos, transformaciones, filtros, agregaciones, acceso o transformación de matrices y búsqueda binaria
 - **Dificultad:** principiante a intermedio
