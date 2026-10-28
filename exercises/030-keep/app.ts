@@ -1,6 +1,5 @@
 function keep(arr: number[], keeper: number): number[] {
-  // your code here
-  return [];
+  return arr.filter(value=>value===keeper);
 }
 
 export {};

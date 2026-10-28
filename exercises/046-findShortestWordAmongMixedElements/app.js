@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 function findShortestWordAmongMixedElements(arr) {
-    // your code here
-    return '';
+    const words = arr.filter((value) => typeof value === "string");
+    return words.length ? words.reduce((shortest, word) => word.length < shortest.length ? word : shortest) : "";
 }

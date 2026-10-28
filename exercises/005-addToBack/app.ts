@@ -1,5 +1,5 @@
 function addToBack(arr: unknown[], element: number) {
-  // your code here
+  arr.push(element); return arr;
 }
 
 export {};

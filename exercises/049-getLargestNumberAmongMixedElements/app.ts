@@ -1,6 +1,5 @@
 function getLargestNumberAmongMixedElements(arr: unknown[]): number {
-  // your code here
-  return 0;
+  const numbers=arr.filter((value): value is number=>typeof value === "number"); return numbers.length ? Math.max(...numbers) : 0;
 }
 
 export {};

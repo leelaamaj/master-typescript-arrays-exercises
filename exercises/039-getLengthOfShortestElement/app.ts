@@ -1,6 +1,5 @@
-function getLengthOfShortestElement(arr: number[]): number {
-  // your code here
-  return 0;
+function getLengthOfShortestElement(arr: string[]): number {
+  return arr.length ? Math.min(...arr.map(word=>word.length)) : 0;
 }
 
 export {};

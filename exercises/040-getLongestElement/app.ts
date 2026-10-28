@@ -1,6 +1,5 @@
-function getLongestElement(arr: number[]): string {
-  // your code here
-  return '';
+function getLongestElement(arr: string[]): string {
+  return arr.reduce((longest,word)=>word.length>longest.length?word:longest,"");
 }
 
 export {};

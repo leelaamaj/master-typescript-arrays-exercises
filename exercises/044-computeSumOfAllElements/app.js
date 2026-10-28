@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 function computeSumOfAllElements(arr) {
-    // your code here
-    return 0;
+    return arr.reduce((total, value) => total + value, 0);
 }

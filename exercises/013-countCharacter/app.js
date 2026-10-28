@@ -1,6 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 function countCharacter(str, char) {
-    // your code here
-    return 0;
+    let count = 0;
+    for (const letter of str) {
+        if (letter === char)
+            count++;
+    }
+    return count;
 }

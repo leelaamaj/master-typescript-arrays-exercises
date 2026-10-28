@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 function isIsogram(text) {
-    // your code here
-    return false;
+    const lower = text.toLowerCase();
+    return new Set(lower).size === lower.length;
 }

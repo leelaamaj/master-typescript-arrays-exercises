@@ -1,6 +1,5 @@
 function getAllLetters(str: string): string[] {
-  // your code here
-  return [];
+  return str.split("");
 }
 
 export {};

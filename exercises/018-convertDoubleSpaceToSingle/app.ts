@@ -1,6 +1,5 @@
 function convertDoubleSpaceToSingle(str: string): string {
-  // your code here
-  return '';
+  return str.split("  ").join(" ");
 }
 
 export {};

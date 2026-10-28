@@ -11,6 +11,8 @@
     "fix:signatures": "node scripts/regenerate-app-ts.mjs && node scripts/transpile-all.mjs"
   },
   "devDependencies": {
+    "jest": "^30.5.2",
+    "rewire": "^9.0.1",
     "typescript": "^5.9.2"
   }
 }

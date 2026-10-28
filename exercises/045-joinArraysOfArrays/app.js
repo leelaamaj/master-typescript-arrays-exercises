@@ -1,6 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 function joinArrayOfArrays(arr) {
-    // your code here
-    return [];
+    let result = [];
+    for (const row of arr) {
+        result = result.concat(row);
+    }
+    return result;
 }

@@ -1,6 +1,5 @@
 function computeSumOfAllElements(arr: number[]): number {
-  // your code here
-  return 0;
+  return arr.reduce((total,value)=>total+value,0);
 }
 
 export {};

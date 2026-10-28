@@ -1,6 +1,5 @@
 function getAllElementsButNth(array: unknown[], n: number): unknown[] {
-  // your code here
-  return [];
+  return array.filter((_,index)=>index!==n);
 }
 
 export {};

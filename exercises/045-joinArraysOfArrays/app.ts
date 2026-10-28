@@ -1,6 +1,5 @@
 function joinArrayOfArrays(arr: unknown[]): unknown[] {
-  // your code here
-  return [];
+  let result: unknown[]=[]; for(const row of arr) {result=result.concat(row);} return result;
 }
 
 export {};

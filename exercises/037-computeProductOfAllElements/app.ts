@@ -1,6 +1,5 @@
 function computeProductOfAllElements(arr: number[]): number {
-  // your code here
-  return 0;
+  return arr.length ? arr.reduce((product,value)=>product*value,1) : 0;
 }
 
 export {};

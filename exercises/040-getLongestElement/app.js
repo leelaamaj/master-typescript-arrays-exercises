@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 function getLongestElement(arr) {
-    // your code here
-    return '';
+    return arr.reduce((longest, word) => word.length > longest.length ? word : longest, "");
 }

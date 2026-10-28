@@ -1,6 +1,5 @@
 function findShortestElement(arr: string[]): string {
-  // your code here
-  return '';
+  return arr.length ? arr.reduce((shortest,word)=>word.length<shortest.length?word:shortest) : "";
 }
 
 export {};

@@ -1,6 +1,5 @@
 function getAllWords(str: string): string[] {
-  // your code here
-  return [];
+  return str === "" ? [] : str.split(" ");
 }
 
 export {};

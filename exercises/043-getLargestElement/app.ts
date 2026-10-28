@@ -1,6 +1,5 @@
 function getLargestElement(arr: number[]): number {
-  // your code here
-  return 0;
+  return arr.length ? Math.max(...arr) : 0;
 }
 
 export {};

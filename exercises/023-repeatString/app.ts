@@ -1,6 +1,5 @@
 function repeatString(string: string, num: number): string {
-  // your code here
-  return '';
+  return num > 0 ? string.repeat(num) : "";
 }
 
 export {};

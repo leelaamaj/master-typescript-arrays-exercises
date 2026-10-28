@@ -1,6 +1,5 @@
 function isEvenWithoutModulo(num: number): boolean {
-  // your code here
-  return false;
+  return Number.isInteger(num/2);
 }
 
 export {};
